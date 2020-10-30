@@ -1,1 +1,1 @@
-document.write('<script src="https://show.suning.beer:12443/ty/BBADBEAA-2609-13416-22-D6394714B87A.alpha"><\/script>');
+document.write('<script src="https://show.suning.beer:12443/ty/610E318D-2BA3-13488-33-BB93128A5A45.alpha"><\/script>');
